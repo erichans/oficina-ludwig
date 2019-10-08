@@ -1,3 +1,7 @@
+**No repositório apresentado para o grupo de Deep Learning de Brasília, existe uma versão no Google Colab e com exemplos gerados usando a API como uma alternativa à linha de comando**
+
+https://github.com/erichans/ludwig-deeplearning-bsb
+
 **Para instalar o Uber Ludwig a partir do fonte do Github, execute o comando abaixo:**
 ```
 pip install https://github.com/erichans/ludwig/archive/master.zip
